@@ -33,6 +33,7 @@
         width: 90%;
         height: 50%;
         box-sizing: border-box;
+        margin-top: 15%;
    }
 
    .card {
@@ -41,6 +42,7 @@
 
    .right-login {
         width: 90%;     
+        margin: 0;
    }
 
    .left-image {
